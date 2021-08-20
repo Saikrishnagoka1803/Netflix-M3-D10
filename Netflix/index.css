@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(24, 23, 23);
+    color: white;
+}
+.special{
+    background-color: rgb(24, 23, 23);
+}
+.btn-group{
+    padding: 0 30px;
+}
+
+.bell{
+    margin-right: 1.5rem;
+    margin-top: 8px;
+}
+.kids{
+    margin-right: 1rem;
+}
+.search{
+    margin-right: 1rem;
+    margin-top: 8px;
+}
+.btn-outline-light{
+    font-size: 14px;
+    border-radius: 0;
+    
+}
+.line{
+    border-bottom: 1px solid rgb(68, 62, 62);
+    padding: 0.5em;
+}
+.sizing{
+    height: 7rem;
+    max-width: 142px;
+}
+.english{
+    padding: 0 12px;
+}
+.autoplay{
+    font-size: 12px;
+    
+    padding-top: 0.5rem;
+}
